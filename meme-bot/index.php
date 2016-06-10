@@ -83,6 +83,7 @@ $ws->on(
                     }else{
 $response = 'Available Commands:
   pepe
+  pepify <username/discriminator#>
 ';
                     }
                     if($response != ""){
